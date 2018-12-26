@@ -50,4 +50,4 @@ for i,j,k in zip(items_name, items_price, items_url):
       url_count += 1
       count += 1
 
-wb.save('/Users/yeonshin/BeautifulSoup/인기가이드투어.xlsx')
+wb.save('/Users/yeonshin/BeautifulSoup/인기 가이드투어.xlsx')
